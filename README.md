@@ -4,8 +4,8 @@
 
 Cumple con simbología **ANSI/ISA-5.1 (2024)**. Diseñado para **operadores de planta e ingenieros de operaciones**: construye el diagrama de tu estación, define los servicios de cada línea y visualiza por dónde fluye el producto según el estado de válvulas y bombas.
 
-> Desarrollado por **[Ing. Javier Gómez](https://github.com/ingjaviergomezm)** — Ingeniería de Operaciones, OCENSA.
-> Caso piloto: Estación Cusiana (Casanare, Colombia). La herramienta es *plant-agnostic*: sirve para cualquier estación cambiando el inventario.
+> Desarrollado por **[Ing. Javier Gómez](https://github.com/ingjaviergomezm)** — Ingeniería de Operaciones.
+> Probado sobre una estación real de rebombeo de crudo. La herramienta es *plant-agnostic*: sirve para cualquier estación cambiando el inventario.
 
 ---
 
@@ -88,7 +88,7 @@ Las **válvulas** (manuales HV, motorizadas MOV, control PCV/FCV, alivio PSV, sh
 
 ---
 
-## Convención de colores de estado (norma OCENSA)
+## Convención de colores de estado (industria petrolera)
 
 | Color | Estado | Significado |
 |---|---|---|
