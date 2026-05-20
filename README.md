@@ -1,17 +1,19 @@
 # PlantSimulator
 
+Demo: **[PlantSimulator]([https://github.com/ingjaviergomezm](https://tubular-licorice-aa8ef2.netlify.app/))**
+
 **Editor visual de diagramas de proceso (PFD/P&ID) y simulador de alineaciones operativas para estaciones de bombeo y rebombeo de hidrocarburos.**
 
 Cumple con simbología **ANSI/ISA-5.1 (2024)**. Diseñado para **operadores de planta e ingenieros de operaciones**: construye el diagrama de tu estación, define los servicios de cada línea y visualiza por dónde fluye el producto según el estado de válvulas y bombas.
 
-> Desarrollado por **[Ing. Javier Gómez](https://github.com/ingjaviergomezm)** — Ingeniería de Operaciones.
-> Probado sobre una estación real de rebombeo de crudo. La herramienta es *plant-agnostic*: sirve para cualquier estación cambiando el inventario.
+> Desarrollado por **[Javier Gómez](https://github.com/ingjaviergomezm)**.
+> Probado sobre una estación real de rebombeo de crudo. La sirve para ilustrar cualquier estación de rebombeo.
 
 ---
 
 ## Para qué sirve
 
-- **Dibujar el PFD/P&ID de la estación** con simbología estándar: tanques, bombas, válvulas, separadores, trampas de raspadores, sumideros, filtros, mezcladores, unidades LACT y conectores de frontera.
+- **Dibujar el PFD de la estación** con simbología estándar: tanques, bombas, válvulas, separadores, trampas de raspadores, sumideros, filtros, mezcladores, unidades LACT y conectores de frontera.
 - **Definir servicios de tubería** (tipo de fluido) con código de color: Fase 1, Fase 2, ODL, Diluyente, etc.
 - **Simular la ruta de flujo activa**: el simulador resalta por dónde pasa el producto según el estado normal de cada válvula/bomba, e identifica líneas sin camino completo.
 - **Documentar alineaciones operativas** como base para checklists y procedimientos de sala de control.
@@ -117,6 +119,6 @@ Las **válvulas** (manuales HV, motorizadas MOV, control PCV/FCV, alivio PSV, sh
 
 ## Aviso
 
-Proyecto **privado** de uso interno. Este sitio publica únicamente la documentación / manual de usuario; **el código fuente no es público**. Para acceso a la herramienta, contactar al autor.
+Proyecto privado, de uso abierto, no requiere crear cuenta de usuario ni retiene los datos de los usuarios. Este sitio publica únicamente la documentación / manual de usuario; **el código fuente no es público**. Para personalizar la herramienta, contactar al autor.
 
 © Ing. Javier Gómez — [github.com/ingjaviergomezm](https://github.com/ingjaviergomezm)
