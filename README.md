@@ -1,6 +1,6 @@
 # PlantSimulator
 
-Demo: **[PlantSimulator]([https://github.com/ingjaviergomezm](https://tubular-licorice-aa8ef2.netlify.app/))**
+Demo: **[PlantSimulator](https://tubular-licorice-aa8ef2.netlify.app/)**
 
 **Editor visual de diagramas de proceso (PFD/P&ID) y simulador de alineaciones operativas para estaciones de bombeo y rebombeo de hidrocarburos.**
 
