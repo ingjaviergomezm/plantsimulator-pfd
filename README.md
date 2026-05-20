@@ -4,10 +4,10 @@ Demo: **[PlantSimulator](https://tubular-licorice-aa8ef2.netlify.app/)**
 
 **Editor visual de diagramas de proceso (PFD/P&ID) y simulador de alineaciones operativas para estaciones de bombeo y rebombeo de hidrocarburos.**
 
-Cumple con simbología **ANSI/ISA-5.1 (2024)**. Diseñado para **operadores de planta e ingenieros de operaciones**: construye el diagrama de tu estación, define los servicios de cada línea y visualiza por dónde fluye el producto según el estado de válvulas y bombas.
+Cumple con simbología ISA-5.1. Diseñado para **operadores de planta e ingenieros de operaciones**: construye el diagrama de tu estación, define los servicios de cada línea y visualiza por dónde fluye el producto según el estado de válvulas y bombas.
 
-> Desarrollado por **[Javier Gómez](https://github.com/ingjaviergomezm)**.
-> Probado sobre una estación real de rebombeo de crudo. La sirve para ilustrar cualquier estación de rebombeo.
+> Desarrollado por **[Javier Gómez M.](https://github.com/ingjaviergomezm)**.
+> Sirve para ilustrar cualquier estación de rebombeo de crudo.
 
 ---
 
